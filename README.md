@@ -3,6 +3,8 @@ Java project to show the value of a given Java object (with the value of its ref
 
 The file JavaDbUtilities.docx explains in Spanish how to use this project.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 I have written this project as the following answer in StackOverflow:
 
 "I have created a project called JavaObjectPrinter on GitHub which uses reflection and looks for the non-static attributes that have getter recursively (until a given depth) and creates a HTML file with a table for each class having a column for each attribute and a file for each instanced object of the class. It also groups the duplicated objects found."
